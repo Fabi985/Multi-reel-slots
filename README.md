@@ -1,6 +1,8 @@
 # Multi-reel-slots
 Gambling Machine in C++
 
+***Project is currenly on hold due to uni projects***
+
 ## Documentation for the multi-reel-slots
 I've decided to reset my entire slot machine project.
 
